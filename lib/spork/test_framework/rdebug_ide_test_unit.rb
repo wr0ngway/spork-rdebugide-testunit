@@ -1,4 +1,3 @@
-require "ruby-debug-base"
 require "ruby-debug-ide"
 require "spork/test_framework/test_unit"
 
